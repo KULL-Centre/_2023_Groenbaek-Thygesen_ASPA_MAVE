@@ -6,9 +6,9 @@ Files and Directories
 - abundance.csv: Abundance scores
 - toxicity.csv: Toxicity scores
 - tile_stability.csv: Degron TSI scores for ASPA tiles
-- plots.ipynb: Jupyter notebook with plots based on the article supplementary CSV file
+- plots.ipynb: Jupyter notebook with plots
 - pacbio: Scripts for processing long CCS reads into a barcode map 
-- illumina: Scripts for calculating the abundance scores
+- illumina: Scripts for calculating the abundance and toxicity scores
 
 Pacbio and illumina sequencing reads for abundance and toxicity scores are available at ...
 
