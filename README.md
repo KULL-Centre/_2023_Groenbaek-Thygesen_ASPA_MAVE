@@ -9,7 +9,6 @@ Files and Directories
 - plots.ipynb: Jupyter notebook with plots based on the article supplementary CSV file
 - pacbio: Scripts for processing long CCS reads into a barcode map 
 - illumina: Scripts for calculating the abundance scores
-- illumina_degron: Scripts for calculating the degron TSI scores
 
 Pacbio and illumina sequencing reads for abundance and toxicity scores are available at ...
 
