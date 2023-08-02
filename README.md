@@ -4,6 +4,7 @@ Scripts and output from "Deep mutational scanning reveals a tight correlation be
 Files and Directories
 
 - abundance.csv: Abundance scores
+- toxicity.csv: Toxicity scores
 - tile_stability.csv: Degron TSI scores for ASPA tiles
 - plots.ipynb: Jupyter notebook with plots based on the article supplementary CSV file
 - pacbio: Scripts for processing long CCS reads into a barcode map 
