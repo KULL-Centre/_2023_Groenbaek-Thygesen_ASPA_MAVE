@@ -11,7 +11,6 @@ Files and Directories
 - illumina: Scripts for calculating the abundance scores
 - illumina_degron: Scripts for calculating the degron TSI scores
 
-Pacbio and illumina sequencing reads for abundance and toxicity scores are available at 
+Pacbio and illumina sequencing reads for abundance and toxicity scores are available at ...
 
-Code used for degron scoring of tiles is available with the [Parkin VAMPseq paper by Clausen et al](https://github.com/KULL-Centre/_2023_Clausen_parkin_MAVE/tree/d9488dcfdb79329af2fae437d9f9452576d0a2d2/illumina_degron)
-Sequencing reads for degron TSI scores are available at https://doi.org/10.17894/ucph.d879cfce-efb3-4eaa-928f-87a94d9560ef
+Code used for degron scoring of tiles is available with the [Parkin VAMPseq paper by Clausen et al](https://github.com/KULL-Centre/_2023_Clausen_parkin_MAVE/tree/d9488dcfdb79329af2fae437d9f9452576d0a2d2/illumina_degron) with sequencing reads available at https://doi.org/10.17894/ucph.d879cfce-efb3-4eaa-928f-87a94d9560ef
