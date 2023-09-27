@@ -13,3 +13,5 @@ Files and Directories
 Pacbio and illumina sequencing reads for abundance and toxicity scores are available at https://doi.org/10.17894/ucph.3e05fe3a-4d7e-4d70-9056-18ed999e7e1e
 
 Code used for degron scoring of tiles is available with the [Parkin VAMPseq paper by Clausen et al](https://github.com/KULL-Centre/_2023_Clausen_parkin_MAVE/tree/d9488dcfdb79329af2fae437d9f9452576d0a2d2/illumina_degron) with sequencing reads available at https://doi.org/10.17894/ucph.d879cfce-efb3-4eaa-928f-87a94d9560ef
+
+[![DOI](https://zenodo.org/badge/536575311.svg)](https://zenodo.org/badge/latestdoi/536575311)
